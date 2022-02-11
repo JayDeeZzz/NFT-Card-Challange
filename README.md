@@ -2,9 +2,6 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-
-## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -21,8 +18,6 @@ Users should be able to:
 
 - Solution URL: (https://github.com/JayDeeZzz/NFT-Card-Challange)
 - Live Site URL: (https://jaydeezzz.github.io/NFT-Card-Challange/)
-
-## My process
 
 ### Built with
 
